@@ -4,7 +4,7 @@ routes = web.RouteTableDef()
 
 @routes.get("/", allow_head=True)
 async def root_route_handler(request):
-    return web.json_response("Madflix_Bots")
+    return web.json_response("NewGeneration_Anime")
 
 
 async def web_server():
@@ -14,7 +14,6 @@ async def web_server():
 
 
 
-# Jishu Developer 
-# Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Developer @JishuDeveloper
+
+# Telegram Channel @NewGeneration_Anime
+# Developer @Sakazuki_Akainu_
